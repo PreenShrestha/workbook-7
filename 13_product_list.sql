@@ -1,1 +1,0 @@
-select distinct Title from employees;
